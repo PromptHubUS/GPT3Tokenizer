@@ -1,13 +1,8 @@
 {
-  "name": "gioni06/gpt3-tokenizer",
+  "name": "prompthub/gpt3-tokenizer",
   "description": "PHP package for Byte Pair Encoding (BPE) used by GPT-3.",
   "keywords": ["gpt-3", "openai", "gpt-2", "tokenizer", "encode", "decode"],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/Gioni06/GPT3Tokenizer",
-  "support": {
-    "issues": "https://github.com/Gioni06/GPT3Tokenizer/issues",
-    "source": "https://github.com/Gioni06/GPT3Tokenizer"
-  },
   "scripts": {
     "test": "vendor/bin/phpunit -d memory_limit=-1 tests"
   },
